@@ -1,0 +1,10 @@
+[package]
+name = "rust_borrow_practice_in_class"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "rust_borrow_practice_in_class"
+path = "src/main.rs"
