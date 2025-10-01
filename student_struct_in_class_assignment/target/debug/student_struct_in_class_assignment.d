@@ -1,0 +1,1 @@
+/workspaces/rustfall2025/student_struct_in_class_assignment/target/debug/student_struct_in_class_assignment: /workspaces/rustfall2025/student_struct_in_class_assignment/src/main.rs
