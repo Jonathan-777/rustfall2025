@@ -98,13 +98,13 @@ fn main() -> Result<(), Box<dyn Error>> {
         println!("Fetching random dog image #{}", i);
         match fetch_random_dog_image() {
             Ok(dog_image) => {
-                println!("✅ Success! JSON status: {}", dog_image.status);
+                println!("Success! JSON status: {}", dog_image.status);
                 match save_image(&dog_image.message, i) {
-                    Ok(path) => println!("� Downloaded to: {}", path.display()),
-                    Err(e) => println!("❌ Failed to save image: {}", e),
+                    Ok(path) => println!("Downloaded to: {}", path.display()),
+                    Err(e) => println!("Failed to save image: {}", e),
                 }
             }
-            Err(e) => println!("❌ Failed to fetch metadata: {}", e),
+            Err(e) => println!("Failed to fetch metadata: {}", e),
         }
         println!();
     }
