@@ -1,0 +1,3016 @@
+
+================================================================================
+Processing Complete!
+================================================================================
+
+Final Statistics:
+  Total Files Discovered: 200
+  Total Files Analyzed: 200
+  Successfully Analyzed: 200
+  Total Errors: 0
+  Total Time: 54.08s
+
+Results (200 of 200 files):
+--------------------------------------------------------------------------------
+
+File: ./books/Orley_Farm.txt
+  Status:  Success
+  Processing Time: 1039.054ms
+  File Size: 52665 bytes
+  Lines: 1373
+  Words: 8532
+  Avg Words per Line: 6.21
+  Top Characters:
+    [space] : 9228
+    e : 4694
+    t : 3575
+    o : 3291
+    a : 2831
+  No errors while processing file
+
+File: ./books/The_Metamorphosis.txt
+  Status:  Success
+  Processing Time: 1138.213ms
+  File Size: 54996 bytes
+  Lines: 1257
+  Words: 8237
+  Avg Words per Line: 6.55
+  Top Characters:
+    [space] : 12314
+    e : 4748
+    t : 3696
+    a : 2814
+    o : 2757
+  No errors while processing file
+
+File: ./books/Return_of_the_Native.txt
+  Status:  Success
+  Processing Time: 1174.752ms
+  File Size: 67113 bytes
+  Lines: 1269
+  Words: 11703
+  Avg Words per Line: 9.22
+  Top Characters:
+    [space] : 11228
+    e : 6207
+    t : 4675
+    a : 4081
+    o : 4066
+  No errors while processing file
+
+File: ./books/The_Old_Curiosity_Shop_Alt.txt
+  Status:  Success
+  Processing Time: 1927.346ms
+  File Size: 112083 bytes
+  Lines: 1852
+  Words: 18775
+  Avg Words per Line: 10.14
+  Top Characters:
+    [space] : 18634
+    e : 10790
+    t : 7767
+    a : 6961
+    o : 6542
+  No errors while processing file
+
+File: ./books/Little_Dorrit_Alt.txt
+  Status:  Success
+  Processing Time: 2473.266ms
+  File Size: 138902 bytes
+  Lines: 2349
+  Words: 22751
+  Avg Words per Line: 9.69
+  Top Characters:
+    [space] : 21300
+    e : 13873
+    t : 10448
+    a : 8770
+    o : 8580
+  No errors while processing file
+
+File: ./books/A_Modest_Proposal.txt
+  Status:  Success
+  Processing Time: 2721.477ms
+  File Size: 142054 bytes
+  Lines: 2268
+  Words: 25058
+  Avg Words per Line: 11.05
+  Top Characters:
+    [space] : 23246
+    e : 13788
+    t : 10559
+    o : 8869
+    a : 8072
+  No errors while processing file
+
+File: ./books/North_and_South.txt
+  Status:  Success
+  Processing Time: 2763.843ms
+  File Size: 154154 bytes
+  Lines: 2630
+  Words: 25362
+  Avg Words per Line: 9.64
+  Top Characters:
+    [space] : 23837
+    e : 15586
+    t : 11371
+    o : 9174
+    a : 8971
+  No errors while processing file
+
+File: ./books/The_Adventures_of_Sherlock_Holmes.txt
+  Status:  Success
+  Processing Time: 2860.265ms
+  File Size: 157085 bytes
+  Lines: 2832
+  Words: 24463
+  Avg Words per Line: 8.64
+  Top Characters:
+    [space] : 23128
+    e : 20044
+    n : 11914
+    i : 10112
+    r : 8231
+  No errors while processing file
+
+File: ./books/Phineas_Finn.txt
+  Status:  Success
+  Processing Time: 2991.893ms
+  File Size: 170011 bytes
+  Lines: 2944
+  Words: 28247
+  Avg Words per Line: 9.59
+  Top Characters:
+    [space] : 26193
+    e : 17424
+    t : 12263
+    o : 10225
+    a : 10058
+  No errors while processing file
+
+File: ./books/Hamlet.txt
+  Status:  Success
+  Processing Time: 2084.130ms
+  File Size: 130373 bytes
+  Lines: 4545
+  Words: 21427
+  Avg Words per Line: 4.71
+  Top Characters:
+    [space] : 18295
+    e : 11236
+    t : 8689
+    o : 7536
+    a : 7211
+  No errors while processing file
+
+File: ./books/The_Twelfth_Night_Alt.txt
+  Status:  Success
+  Processing Time: 2035.706ms
+  File Size: 124093 bytes
+  Lines: 4203
+  Words: 20578
+  Avg Words per Line: 4.90
+  Top Characters:
+    [space] : 17695
+    e : 10464
+    t : 8027
+    o : 7629
+    a : 6917
+  No errors while processing file
+
+File: ./books/The_Scarlet_Pimpernel.txt
+  Status:  Success
+  Processing Time: 3734.672ms
+  File Size: 237278 bytes
+  Lines: 5130
+  Words: 42687
+  Avg Words per Line: 8.32
+  Top Characters:
+    [space] : 39171
+    e : 22264
+    t : 16378
+    o : 14240
+    a : 13886
+  No errors while processing file
+
+File: ./books/The_Eustace_Diamonds_Revised.txt
+  Status:  Success
+  Processing Time: 4047.388ms
+  File Size: 274048 bytes
+  Lines: 4373
+  Words: 43456
+  Avg Words per Line: 9.94
+  Top Characters:
+    [space] : 39685
+    e : 27322
+    t : 22217
+    o : 17234
+    a : 16070
+  No errors while processing file
+
+File: ./books/Don_Quixote.txt
+  Status:  Success
+  Processing Time: 4318.067ms
+  File Size: 242547 bytes
+  Lines: 4347
+  Words: 42186
+  Avg Words per Line: 9.70
+  Top Characters:
+    [space] : 38780
+    e : 22320
+    t : 16070
+    a : 15410
+    o : 13727
+  No errors while processing file
+
+File: ./books/A_Journal_of_the_Plague_Year.txt
+  Status:  Success
+  Processing Time: 1459.318ms
+  File Size: 91486 bytes
+  Lines: 1694
+  Words: 15371
+  Avg Words per Line: 9.07
+  Top Characters:
+    [space] : 14465
+    e : 8917
+    t : 6693
+    a : 5546
+    o : 5509
+  No errors while processing file
+
+File: ./books/Alls_Well_That_Ends_Well.txt
+  Status:  Success
+  Processing Time: 1860.550ms
+  File Size: 125056 bytes
+  Lines: 2505
+  Words: 21220
+  Avg Words per Line: 8.47
+  Top Characters:
+    [space] : 21540
+    e : 11927
+    t : 8761
+    o : 7383
+    a : 7016
+  No errors while processing file
+
+File: ./books/The_Chimes.txt
+  Status:  Success
+  Processing Time: 5156.566ms
+  File Size: 316854 bytes
+  Lines: 6257
+  Words: 55009
+  Avg Words per Line: 8.79
+  Top Characters:
+    [space] : 50372
+    e : 29075
+    t : 21516
+    a : 19766
+    o : 17397
+  No errors while processing file
+
+File: ./books/The_Prime_Minister.txt
+  Status:  Success
+  Processing Time: 5221.368ms
+  File Size: 328632 bytes
+  Lines: 6711
+  Words: 56697
+  Avg Words per Line: 8.45
+  Top Characters:
+    [space] : 52878
+    e : 31260
+    t : 20932
+    o : 19202
+    a : 18216
+  No errors while processing file
+
+File: ./books/The_Great_Gatsby.txt
+  Status:  Success
+  Processing Time: 5962.620ms
+  File Size: 359651 bytes
+  Lines: 7807
+  Words: 62143
+  Avg Words per Line: 7.96
+  Top Characters:
+    [space] : 59074
+    e : 34023
+    t : 23397
+    a : 22053
+    o : 22022
+  No errors while processing file
+
+File: ./books/The_Last_of_the_Mohicans.txt
+  Status:  Success
+  Processing Time: 2251.976ms
+  File Size: 148582 bytes
+  Lines: 2653
+  Words: 25034
+  Avg Words per Line: 9.44
+  Top Characters:
+    [space] : 24013
+    e : 14617
+    t : 11069
+    o : 9187
+    n : 8898
+  No errors while processing file
+
+File: ./books/Hound_of_Baskervilles.txt
+  Status:  Success
+  Processing Time: 6578.998ms
+  File Size: 388088 bytes
+  Lines: 7729
+  Words: 62302
+  Avg Words per Line: 8.06
+  Top Characters:
+    [space] : 92119
+    e : 31935
+    t : 24191
+    o : 20733
+    a : 20718
+  No errors while processing file
+
+File: ./books/Barchester_Towers.txt
+  Status:  Success
+  Processing Time: 6578.974ms
+  File Size: 381168 bytes
+  Lines: 7627
+  Words: 66166
+  Avg Words per Line: 8.68
+  Top Characters:
+    [space] : 61761
+    e : 37397
+    t : 26253
+    a : 22885
+    o : 22222
+  No errors while processing file
+
+File: ./books/Oliver_Twist_Revised.txt
+  Status:  Success
+  Processing Time: 3456.439ms
+  File Size: 224976 bytes
+  Lines: 6667
+  Words: 34044
+  Avg Words per Line: 5.11
+  Top Characters:
+    [space] : 53120
+    e : 19319
+    t : 12932
+    o : 10891
+    a : 10796
+  No errors while processing file
+
+File: ./books/A_Modest_Proposal_Revised.txt
+  Status:  Success
+  Processing Time: 6914.447ms
+  File Size: 405748 bytes
+  Lines: 8285
+  Words: 70588
+  Avg Words per Line: 8.52
+  Top Characters:
+    [space] : 64959
+    e : 37576
+    t : 26047
+    a : 24809
+    o : 22584
+  No errors while processing file
+
+File: ./books/The_Bertrams.txt
+  Status:  Success
+  Processing Time: 7044.752ms
+  File Size: 432135 bytes
+  Lines: 7654
+  Words: 70589
+  Avg Words per Line: 9.22
+  Top Characters:
+    [space] : 66935
+    e : 41952
+    t : 32549
+    a : 26456
+    o : 26409
+  No errors while processing file
+
+File: ./books/Nostromo.txt
+  Status:  Success
+  Processing Time: 7148.037ms
+  File Size: 443295 bytes
+  Lines: 7939
+  Words: 77177
+  Avg Words per Line: 9.72
+  Top Characters:
+    [space] : 70674
+    e : 43326
+    t : 32759
+    a : 30370
+    h : 24851
+  No errors while processing file
+
+File: ./books/Beowulf.txt
+  Status:  Success
+  Processing Time: 5742.043ms
+  File Size: 372732 bytes
+  Lines: 7434
+  Words: 60012
+  Avg Words per Line: 8.07
+  Top Characters:
+    [space] : 56134
+    e : 25348
+    a : 24790
+    n : 24201
+    t : 22232
+  No errors while processing file
+
+File: ./books/As_You_Like_It.txt
+  Status:  Success
+  Processing Time: 420.469ms
+  File Size: 26127 bytes
+  Lines: 607
+  Words: 3932
+  Avg Words per Line: 6.48
+  Top Characters:
+    [space] : 4425
+    e : 2306
+    t : 1880
+    o : 1657
+    r : 1397
+  No errors while processing file
+
+File: ./books/Christian_Allegory.txt
+  Status:  Success
+  Processing Time: 5495.270ms
+  File Size: 353171 bytes
+  Lines: 6255
+  Words: 61104
+  Avg Words per Line: 9.77
+  Top Characters:
+    [space] : 56186
+    e : 33002
+    t : 26059
+    o : 20836
+    a : 20383
+  No errors while processing file
+
+File: ./books/Jane_Eyre_Revised.txt
+  Status:  Success
+  Processing Time: 8287.224ms
+  File Size: 496369 bytes
+  Lines: 10252
+  Words: 87895
+  Avg Words per Line: 8.57
+  Top Characters:
+    [space] : 80780
+    e : 47037
+    t : 33321
+    a : 30166
+    o : 27916
+  No errors while processing file
+
+File: ./books/The_Small_House_at_Allington.txt
+  Status:  Success
+  Processing Time: 1859.581ms
+  File Size: 120390 bytes
+  Lines: 2002
+  Words: 20649
+  Avg Words per Line: 10.31
+  Top Characters:
+    [space] : 19183
+    e : 11968
+    t : 8490
+    a : 7180
+    o : 7034
+  No errors while processing file
+
+File: ./books/The_War_of_the_Worlds.txt
+  Status:  Success
+  Processing Time: 454.678ms
+  File Size: 31411 bytes
+  Lines: 582
+  Words: 4962
+  Avg Words per Line: 8.53
+  Top Characters:
+    [space] : 4788
+    e : 2990
+    t : 2375
+    o : 2080
+    i : 1769
+  No errors while processing file
+
+File: ./books/The_Moonstone_Novel.txt
+  Status:  Success
+  Processing Time: 8959.557ms
+  File Size: 550046 bytes
+  Lines: 8636
+  Words: 91166
+  Avg Words per Line: 10.56
+  Top Characters:
+    [space] : 85035
+    e : 56153
+    t : 38508
+    a : 33441
+    o : 31207
+  No errors while processing file
+
+File: ./books/The_Jungle.txt
+  Status:  Success
+  Processing Time: 3862.747ms
+  File Size: 268819 bytes
+  Lines: 5119
+  Words: 46467
+  Avg Words per Line: 9.08
+  Top Characters:
+    [space] : 42624
+    e : 25470
+    t : 18023
+    a : 16121
+    o : 15521
+  No errors while processing file
+
+File: ./books/George_Eliot_Works.txt
+  Status:  Success
+  Processing Time: 4101.193ms
+  File Size: 255819 bytes
+  Lines: 5021
+  Words: 43567
+  Avg Words per Line: 8.68
+  Top Characters:
+    [space] : 39915
+    e : 23141
+    t : 18012
+    a : 14988
+    o : 14683
+  No errors while processing file
+
+File: ./books/The_Awakening.txt
+  Status:  Success
+  Processing Time: 2761.845ms
+  File Size: 187385 bytes
+  Lines: 3928
+  Words: 29936
+  Avg Words per Line: 7.62
+  Top Characters:
+    [space] : 27210
+    e : 20548
+    s : 10849
+    i : 10365
+    t : 10318
+  No errors while processing file
+
+File: ./books/Phineas_Finn_Alt.txt
+  Status:  Success
+  Processing Time: 8777.254ms
+  File Size: 564606 bytes
+  Lines: 11282
+  Words: 97759
+  Avg Words per Line: 8.67
+  Top Characters:
+    [space] : 89220
+    e : 55419
+    t : 36949
+    a : 33961
+    o : 31105
+  No errors while processing file
+
+File: ./books/A_Room_of_Ones_Own_Revised.txt
+  Status:  Success
+  Processing Time: 4802.239ms
+  File Size: 324599 bytes
+  Lines: 11529
+  Words: 51289
+  Avg Words per Line: 4.45
+  Top Characters:
+    [space] : 53155
+    e : 26505
+    t : 19117
+    a : 18499
+    o : 18413
+  No errors while processing file
+
+File: ./books/The_Turn_of_the_Screw.txt
+  Status:  Success
+  Processing Time: 3767.645ms
+  File Size: 259242 bytes
+  Lines: 4926
+  Words: 45317
+  Avg Words per Line: 9.20
+  Top Characters:
+    [space] : 41586
+    e : 24013
+    t : 18636
+    a : 14843
+    o : 14581
+  No errors while processing file
+
+File: ./books/The_Tenant_of_Ulverstone.txt
+  Status:  Success
+  Processing Time: 6226.079ms
+  File Size: 406758 bytes
+  Lines: 11231
+  Words: 62289
+  Avg Words per Line: 5.55
+  Top Characters:
+    [space] : 97786
+    e : 32035
+    t : 24387
+    o : 20806
+    a : 20453
+  No errors while processing file
+
+File: ./books/Anne_of_Green_Gables.txt
+  Status:  Success
+  Processing Time: 10552.010ms
+  File Size: 660503 bytes
+  Lines: 13302
+  Words: 115248
+  Avg Words per Line: 8.66
+  Top Characters:
+    [space] : 106565
+    e : 63234
+    t : 46552
+    a : 39608
+    o : 37520
+  No errors while processing file
+
+File: ./books/Waverley.txt
+  Status:  Success
+  Processing Time: 4888.100ms
+  File Size: 313758 bytes
+  Lines: 4849
+  Words: 53313
+  Avg Words per Line: 10.99
+  Top Characters:
+    [space] : 51328
+    e : 29733
+    t : 21872
+    o : 18544
+    a : 18047
+  No errors while processing file
+
+File: ./books/Can_You_Forgive_Her_Alt.txt
+  Status:  Success
+  Processing Time: 8215.348ms
+  File Size: 536652 bytes
+  Lines: 9795
+  Words: 91081
+  Avg Words per Line: 9.30
+  Top Characters:
+    [space] : 83967
+    e : 52491
+    t : 34762
+    a : 31386
+    o : 30879
+  No errors while processing file
+
+File: ./books/The_Tempest.txt
+  Status:  Success
+  Processing Time: 11211.549ms
+  File Size: 734319 bytes
+  Lines: 14377
+  Words: 122156
+  Avg Words per Line: 8.50
+  Top Characters:
+    [space] : 113260
+    e : 68933
+    t : 51298
+    a : 43248
+    o : 42981
+  No errors while processing file
+
+File: ./books/Ivanhoe.txt
+  Status:  Success
+  Processing Time: 1063.302ms
+  File Size: 66918 bytes
+  Lines: 1672
+  Words: 10268
+  Avg Words per Line: 6.14
+  Top Characters:
+    [space] : 14113
+    e : 5749
+    t : 4169
+    o : 3735
+    a : 3201
+  No errors while processing file
+
+File: ./books/The_Castle_of_Otranto.txt
+  Status:  Success
+  Processing Time: 2680.947ms
+  File Size: 178037 bytes
+  Lines: 3232
+  Words: 30684
+  Avg Words per Line: 9.49
+  Top Characters:
+    [space] : 29441
+    e : 17596
+    t : 12225
+    o : 10387
+    a : 10132
+  No errors while processing file
+
+File: ./books/The_Invisible_Man.txt
+  Status:  Success
+  Processing Time: 7284.232ms
+  File Size: 467473 bytes
+  Lines: 8558
+  Words: 79259
+  Avg Words per Line: 9.26
+  Top Characters:
+    [space] : 78323
+    e : 43199
+    t : 32246
+    o : 27339
+    a : 27086
+  No errors while processing file
+
+File: ./books/Heart_of_Darkness.txt
+  Status:  Success
+  Processing Time: 2691.310ms
+  File Size: 175671 bytes
+  Lines: 2918
+  Words: 30663
+  Avg Words per Line: 10.51
+  Top Characters:
+    [space] : 28914
+    e : 17654
+    t : 12660
+    o : 10585
+    a : 9988
+  No errors while processing file
+
+File: ./books/The_Yellow_Wallpaper.txt
+  Status:  Success
+  Processing Time: 5413.911ms
+  File Size: 349325 bytes
+  Lines: 7270
+  Words: 60856
+  Avg Words per Line: 8.37
+  Top Characters:
+    [space] : 55577
+    e : 31718
+    t : 23305
+    a : 20319
+    o : 20235
+  No errors while processing file
+
+File: ./books/Tale_of_Two_Cities.txt
+  Status:  Success
+  Processing Time: 12922.050ms
+  File Size: 807248 bytes
+  Lines: 16284
+  Words: 138929
+  Avg Words per Line: 8.53
+  Top Characters:
+    [space] : 127035
+    e : 74857
+    t : 54067
+    a : 48209
+    o : 46546
+  No errors while processing file
+
+File: ./books/Measure_for_Measure.txt
+  Status:  Success
+  Processing Time: 12926.049ms
+  File Size: 775466 bytes
+  Lines: 14270
+  Words: 126734
+  Avg Words per Line: 8.88
+  Top Characters:
+    [space] : 148481
+    e : 68434
+    t : 53231
+    a : 45170
+    o : 41733
+  No errors while processing file
+
+File: ./books/The_Woodlanders.txt
+  Status:  Success
+  Processing Time: 13402.285ms
+  File Size: 858850 bytes
+  Lines: 17600
+  Words: 147546
+  Avg Words per Line: 8.38
+  Top Characters:
+    [space] : 134483
+    e : 79382
+    t : 57328
+    a : 49920
+    o : 49332
+  No errors while processing file
+
+File: ./books/The_Two_Gentlemen_of_Verona.txt
+  Status:  Success
+  Processing Time: 2928.467ms
+  File Size: 171318 bytes
+  Lines: 5397
+  Words: 29184
+  Avg Words per Line: 5.41
+  Top Characters:
+    [space] : 25223
+    e : 15247
+    t : 11101
+    o : 10836
+    a : 8960
+  No errors while processing file
+
+File: ./books/The_Tenant_of_Wildfell_Hall.txt
+  Status:  Success
+  Processing Time: 13631.643ms
+  File Size: 845480 bytes
+  Lines: 17347
+  Words: 151656
+  Avg Words per Line: 8.74
+  Top Characters:
+    [space] : 138473
+    e : 77515
+    t : 54719
+    a : 52511
+    o : 49078
+  No errors while processing file
+
+File: ./books/Barnaby_Rudge.txt
+  Status:  Success
+  Processing Time: 14336.246ms
+  File Size: 875255 bytes
+  Lines: 17424
+  Words: 161237
+  Avg Words per Line: 9.25
+  Top Characters:
+    [space] : 151216
+    e : 83976
+    t : 67946
+    h : 61987
+    a : 55982
+  No errors while processing file
+
+File: ./books/Crime_and_Punishment.txt
+  Status:  Success
+  Processing Time: 2491.865ms
+  File Size: 142054 bytes
+  Lines: 2268
+  Words: 25058
+  Avg Words per Line: 11.05
+  Top Characters:
+    [space] : 23246
+    e : 13788
+    t : 10559
+    o : 8869
+    a : 8072
+  No errors while processing file
+
+File: ./books/The_Time_Machine.txt
+  Status:  Success
+  Processing Time: 10671.963ms
+  File Size: 676900 bytes
+  Lines: 12958
+  Words: 105315
+  Avg Words per Line: 8.13
+  Top Characters:
+    [space] : 100471
+    e : 64385
+    t : 46494
+    a : 41054
+    o : 39547
+  No errors while processing file
+
+File: ./books/The_Mill_on_the_Floss.txt
+  Status:  Success
+  Processing Time: 494.589ms
+  File Size: 31056 bytes
+  Lines: 891
+  Words: 4592
+  Avg Words per Line: 5.15
+  Top Characters:
+    [space] : 5551
+    e : 2800
+    t : 2194
+    o : 1882
+    r : 1672
+  No errors while processing file
+
+File: ./books/Sons_and_Lovers.txt
+  Status:  Success
+  Processing Time: 4795.590ms
+  File Size: 292891 bytes
+  Lines: 5477
+  Words: 38155
+  Avg Words per Line: 6.97
+  Top Characters:
+    e : 36875
+    [space] : 35249
+    n : 23592
+    i : 19955
+    r : 17309
+  No errors while processing file
+
+File: ./books/The_Vicar_of_Wakefield.txt
+  Status:  Success
+  Processing Time: 1463.994ms
+  File Size: 99224 bytes
+  Lines: 2453
+  Words: 15384
+  Avg Words per Line: 6.27
+  Top Characters:
+    [space] : 21740
+    e : 8582
+    t : 5977
+    o : 5327
+    a : 5232
+  No errors while processing file
+
+File: ./books/The_Merchant_of_Venice.txt
+  Status:  Success
+  Processing Time: 3894.167ms
+  File Size: 248530 bytes
+  Lines: 5266
+  Words: 43727
+  Avg Words per Line: 8.30
+  Top Characters:
+    [space] : 41414
+    e : 24110
+    t : 17452
+    o : 15937
+    a : 14895
+  No errors while processing file
+
+File: ./books/The_Water_Babies.txt
+  Status:  Success
+  Processing Time: 8133.800ms
+  File Size: 526416 bytes
+  Lines: 9435
+  Words: 89751
+  Avg Words per Line: 9.51
+  Top Characters:
+    [space] : 82481
+    e : 52156
+    t : 40119
+    a : 32353
+    o : 31158
+  No errors while processing file
+
+File: ./books/The_Brothers_Grimm_Tales.txt
+  Status:  Success
+  Processing Time: 6161.214ms
+  File Size: 358410 bytes
+  Lines: 6039
+  Words: 58187
+  Avg Words per Line: 9.64
+  Top Characters:
+    [space] : 57137
+    e : 35566
+    t : 25715
+    o : 21879
+    a : 21343
+  No errors while processing file
+
+File: ./books/Persuasion.txt
+  Status:  Success
+  Processing Time: 8159.587ms
+  File Size: 497598 bytes
+  Lines: 8736
+  Words: 86366
+  Avg Words per Line: 9.89
+  Top Characters:
+    [space] : 79133
+    e : 48820
+    t : 33709
+    a : 30401
+    o : 28976
+  No errors while processing file
+
+File: ./books/Far_from_the_Madding_Crowd.txt
+  Status:  Success
+  Processing Time: 11433.353ms
+  File Size: 715588 bytes
+  Lines: 16949
+  Words: 127468
+  Avg Words per Line: 7.52
+  Top Characters:
+    [space] : 116944
+    e : 69829
+    t : 51277
+    a : 43489
+    o : 41135
+  No errors while processing file
+
+File: ./books/Othello.txt
+  Status:  Success
+  Processing Time: 2221.215ms
+  File Size: 137438 bytes
+  Lines: 4801
+  Words: 22882
+  Avg Words per Line: 4.77
+  Top Characters:
+    [space] : 19508
+    e : 11899
+    t : 9702
+    o : 8493
+    a : 7259
+  No errors while processing file
+
+File: ./books/Grimms_Fairy_Tales.txt
+  Status:  Success
+  Processing Time: 10267.058ms
+  File Size: 607648 bytes
+  Lines: 12306
+  Words: 107553
+  Avg Words per Line: 8.74
+  Top Characters:
+    [space] : 98565
+    e : 54951
+    t : 40480
+    a : 36127
+    o : 34847
+  No errors while processing file
+
+File: ./books/Silas_Marner.txt
+  Status:  Success
+  Processing Time: 19087.904ms
+  File Size: 1228239 bytes
+  Lines: 21053
+  Words: 217110
+  Avg Words per Line: 10.31
+  Top Characters:
+    [space] : 199341
+    e : 111080
+    t : 84103
+    a : 74120
+    o : 71037
+  No errors while processing file
+
+File: ./books/Sense_and_Sensibility.txt
+  Status:  Success
+  Processing Time: 19132.487ms
+  File Size: 1230450 bytes
+  Lines: 23412
+  Words: 187634
+  Avg Words per Line: 8.01
+  Top Characters:
+    [space] : 280388
+    e : 109143
+    t : 76358
+    a : 66853
+    o : 62099
+  No errors while processing file
+
+File: ./books/A_Tale_of_Two_Cities_Revised.txt
+  Status:  Success
+  Processing Time: 563.580ms
+  File Size: 39687 bytes
+  Lines: 716
+  Words: 6456
+  Avg Words per Line: 9.02
+  Top Characters:
+    [space] : 6102
+    e : 3772
+    t : 2906
+    o : 2627
+    a : 2204
+  No errors while processing file
+
+File: ./books/Tess_Revised.txt
+  Status:  Success
+  Processing Time: 16898.621ms
+  File Size: 1084845 bytes
+  Lines: 21381
+  Words: 188430
+  Avg Words per Line: 8.81
+  Top Characters:
+    [space] : 171729
+    e : 102364
+    t : 68625
+    a : 63872
+    o : 61946
+  No errors while processing file
+
+File: ./books/Pride_and_Prejudice.txt
+  Status:  Success
+  Processing Time: 800.106ms
+  File Size: 52610 bytes
+  Lines: 1223
+  Words: 9122
+  Avg Words per Line: 7.46
+  Top Characters:
+    [space] : 8495
+    e : 4679
+    t : 3833
+    o : 3291
+    a : 2999
+  No errors while processing file
+
+File: ./books/Much_Ado_About_Nothing.txt
+  Status:  Success
+  Processing Time: 617.817ms
+  File Size: 39077 bytes
+  Lines: 809
+  Words: 5982
+  Avg Words per Line: 7.39
+  Top Characters:
+    [space] : 6104
+    e : 3628
+    t : 2885
+    o : 2424
+    i : 2215
+  No errors while processing file
+
+File: ./books/Anna_Karenina.txt
+  Status:  Success
+  Processing Time: 17501.408ms
+  File Size: 1119353 bytes
+  Lines: 17596
+  Words: 193632
+  Avg Words per Line: 11.00
+  Top Characters:
+    [space] : 177943
+    e : 107085
+    t : 75253
+    a : 68296
+    o : 66809
+  No errors while processing file
+
+File: ./books/A_Room_of_Ones_Own.txt
+  Status:  Success
+  Processing Time: 10469.900ms
+  File Size: 656776 bytes
+  Lines: 15998
+  Words: 111668
+  Avg Words per Line: 6.98
+  Top Characters:
+    [space] : 97588
+    e : 60182
+    t : 46509
+    o : 36076
+    h : 35825
+  No errors while processing file
+
+File: ./books/Mansfield_Park.txt
+  Status:  Success
+  Processing Time: 2360.356ms
+  File Size: 161951 bytes
+  Lines: 5003
+  Words: 27212
+  Avg Words per Line: 5.44
+  Top Characters:
+    [space] : 23651
+    e : 15527
+    t : 9900
+    n : 9223
+    i : 8632
+  No errors while processing file
+
+File: ./books/The_Murders_Rue_Morgue.txt
+  Status:  Success
+  Processing Time: 9688.491ms
+  File Size: 606737 bytes
+  Lines: 11159
+  Words: 105541
+  Avg Words per Line: 9.46
+  Top Characters:
+    [space] : 97592
+    e : 53863
+    t : 39863
+    a : 37838
+    o : 32943
+  No errors while processing file
+
+File: ./books/The_Comedy_of_Errors.txt
+  Status:  Success
+  Processing Time: 523.514ms
+  File Size: 35121 bytes
+  Lines: 1091
+  Words: 5243
+  Avg Words per Line: 4.81
+  Top Characters:
+    [space] : 7245
+    e : 2887
+    t : 2393
+    o : 1998
+    i : 1716
+  No errors while processing file
+
+File: ./books/Robinson_Crusoe_Revised.txt
+  Status:  Success
+  Processing Time: 10749.774ms
+  File Size: 630023 bytes
+  Lines: 11656
+  Words: 111168
+  Avg Words per Line: 9.54
+  Top Characters:
+    [space] : 102127
+    e : 62313
+    t : 45759
+    a : 38683
+    o : 34559
+  No errors while processing file
+
+File: ./books/Through_Looking_Glass.txt
+  Status:  Success
+  Processing Time: 2678.924ms
+  File Size: 196580 bytes
+  Lines: 4443
+  Words: 32784
+  Avg Words per Line: 7.38
+  Top Characters:
+    [space] : 31116
+    e : 17326
+    t : 13235
+    a : 10672
+    o : 10224
+  No errors while processing file
+
+File: ./books/Northanger_Abbey.txt
+  Status:  Success
+  Processing Time: 6717.050ms
+  File Size: 468078 bytes
+  Lines: 8373
+  Words: 80259
+  Avg Words per Line: 9.59
+  Top Characters:
+    [space] : 73786
+    e : 46184
+    t : 31574
+    o : 27805
+    a : 27455
+  No errors while processing file
+
+File: ./books/Captain_Singleton.txt
+  Status:  Success
+  Processing Time: 8488.757ms
+  File Size: 560207 bytes
+  Lines: 9615
+  Words: 104151
+  Avg Words per Line: 10.83
+  Top Characters:
+    [space] : 97022
+    e : 52965
+    t : 39545
+    a : 34293
+    h : 32652
+  No errors while processing file
+
+File: ./books/The_Tenant_of_Wildfell_Hall_Alt.txt
+  Status:  Success
+  Processing Time: 7319.854ms
+  File Size: 481000 bytes
+  Lines: 8908
+  Words: 78782
+  Avg Words per Line: 8.84
+  Top Characters:
+    [space] : 73551
+    e : 45811
+    t : 31634
+    a : 28560
+    o : 27800
+  No errors while processing file
+
+File: ./books/What_Maisie_Knew.txt
+  Status:  Success
+  Processing Time: 3580.581ms
+  File Size: 242804 bytes
+  Lines: 5736
+  Words: 39470
+  Avg Words per Line: 6.88
+  Top Characters:
+    [space] : 42031
+    e : 20848
+    t : 15060
+    a : 13140
+    o : 12918
+  No errors while processing file
+
+File: ./books/Brave_New_World.txt
+  Status:  Success
+  Processing Time: 10903.996ms
+  File Size: 719670 bytes
+  Lines: 13831
+  Words: 115155
+  Avg Words per Line: 8.33
+  Top Characters:
+    [space] : 169114
+    e : 60031
+    t : 44253
+    a : 39377
+    o : 38341
+  No errors while processing file
+
+File: ./books/Importance_Being_Earnest.txt
+  Status:  Success
+  Processing Time: 11843.069ms
+  File Size: 755181 bytes
+  Lines: 15245
+  Words: 127709
+  Avg Words per Line: 8.38
+  Top Characters:
+    [space] : 116293
+    e : 71687
+    t : 51148
+    a : 45519
+    o : 43151
+  No errors while processing file
+
+File: ./books/Frankenstein.txt
+  Status:  Success
+  Processing Time: 7226.537ms
+  File Size: 448929 bytes
+  Lines: 7737
+  Words: 78101
+  Avg Words per Line: 10.09
+  Top Characters:
+    [space] : 71747
+    e : 46094
+    t : 30380
+    a : 26743
+    o : 25254
+  No errors while processing file
+
+File: ./books/Pilgrims_Progress.txt
+  Status:  Success
+  Processing Time: 5608.470ms
+  File Size: 342648 bytes
+  Lines: 6070
+  Words: 58739
+  Avg Words per Line: 9.68
+  Top Characters:
+    [space] : 56631
+    e : 33892
+    t : 24181
+    o : 20852
+    a : 20675
+  No errors while processing file
+
+File: ./books/Uncle_Toms_Cabin.txt
+  Status:  Success
+  Processing Time: 16939.703ms
+  File Size: 1079452 bytes
+  Lines: 21541
+  Words: 183963
+  Avg Words per Line: 8.54
+  Top Characters:
+    [space] : 167660
+    e : 94588
+    t : 67701
+    a : 64657
+    o : 60982
+  No errors while processing file
+
+File: ./books/King_Lear.txt
+  Status:  Success
+  Processing Time: 2138.256ms
+  File Size: 135714 bytes
+  Lines: 4532
+  Words: 22808
+  Avg Words per Line: 5.03
+  Top Characters:
+    [space] : 19808
+    e : 12377
+    t : 8579
+    o : 7967
+    a : 7197
+  No errors while processing file
+
+File: ./books/The_Herland.txt
+  Status:  Success
+  Processing Time: 11130.549ms
+  File Size: 709107 bytes
+  Lines: 13238
+  Words: 119890
+  Avg Words per Line: 9.06
+  Top Characters:
+    [space] : 109464
+    e : 67495
+    t : 48576
+    a : 41544
+    o : 41015
+  No errors while processing file
+
+File: ./books/Oliver_Goldsmith_Works.txt
+  Status:  Success
+  Processing Time: 15436.094ms
+  File Size: 955898 bytes
+  Lines: 19188
+  Words: 161005
+  Avg Words per Line: 8.39
+  Top Characters:
+    [space] : 146953
+    e : 87755
+    t : 61940
+    a : 54560
+    o : 54176
+  No errors while processing file
+
+File: ./books/Castle_Richmond.txt
+  Status:  Success
+  Processing Time: 1394.813ms
+  File Size: 91055 bytes
+  Lines: 1686
+  Words: 15365
+  Avg Words per Line: 9.11
+  Top Characters:
+    [space] : 14250
+    e : 8435
+    t : 6307
+    o : 5400
+    a : 5302
+  No errors while processing file
+
+File: ./books/Vanity_Fair.txt
+  Status:  Success
+  Processing Time: 5648.302ms
+  File Size: 369527 bytes
+  Lines: 6333
+  Words: 63582
+  Avg Words per Line: 10.04
+  Top Characters:
+    [space] : 61246
+    e : 34744
+    t : 25522
+    a : 22925
+    o : 21710
+  No errors while processing file
+
+File: ./books/Wuthering_Heights.txt
+  Status:  Success
+  Processing Time: 10762.431ms
+  File Size: 693877 bytes
+  Lines: 12726
+  Words: 118973
+  Avg Words per Line: 9.35
+  Top Characters:
+    [space] : 108701
+    e : 65630
+    t : 44450
+    a : 39730
+    o : 38029
+  No errors while processing file
+
+File: ./books/A_Changed_Man.txt
+  Status:  Success
+  Processing Time: 4066.676ms
+  File Size: 240829 bytes
+  Lines: 5311
+  Words: 39990
+  Avg Words per Line: 7.53
+  Top Characters:
+    [space] : 49787
+    e : 20604
+    t : 15943
+    a : 13600
+    o : 13083
+  No errors while processing file
+
+File: ./books/Treasure_Island.txt
+  Status:  Success
+  Processing Time: 6278.386ms
+  File Size: 405748 bytes
+  Lines: 8285
+  Words: 70588
+  Avg Words per Line: 8.52
+  Top Characters:
+    [space] : 64959
+    e : 37576
+    t : 26047
+    a : 24809
+    o : 22584
+  No errors while processing file
+
+File: ./books/The_Tenant_of_Wildfell_Hall_Revised.txt
+  Status:  Success
+  Processing Time: 487.266ms
+  File Size: 53561 bytes
+  Lines: 1055
+  Words: 3630
+  Avg Words per Line: 3.44
+  Top Characters:
+    [space] : 3098
+    e : 1870
+    t : 1534
+    o : 1380
+    r : 1205
+  No errors while processing file
+
+File: ./books/Villette.txt
+  Status:  Success
+  Processing Time: 5575.133ms
+  File Size: 352404 bytes
+  Lines: 6159
+  Words: 58326
+  Avg Words per Line: 9.47
+  Top Characters:
+    [space] : 54936
+    e : 34997
+    t : 28681
+    o : 21551
+    a : 20848
+  No errors while processing file
+
+File: ./books/Jane_Eyre.txt
+  Status:  Success
+  Processing Time: 12528.876ms
+  File Size: 772429 bytes
+  Lines: 14911
+  Words: 130410
+  Avg Words per Line: 8.75
+  Top Characters:
+    [space] : 126102
+    e : 74453
+    t : 50837
+    a : 44834
+    o : 43381
+  No errors while processing file
+
+File: ./books/Doctor_Thorne.txt
+  Status:  Success
+  Processing Time: 13647.511ms
+  File Size: 868919 bytes
+  Lines: 16817
+  Words: 148982
+  Avg Words per Line: 8.86
+  Top Characters:
+    [space] : 144211
+    e : 86974
+    t : 59860
+    a : 50895
+    o : 49658
+  No errors while processing file
+
+File: ./books/The_Last_Chronicle_of_Barset.txt
+  Status:  Success
+  Processing Time: 5871.942ms
+  File Size: 357821 bytes
+  Lines: 6193
+  Words: 59667
+  Avg Words per Line: 9.63
+  Top Characters:
+    [space] : 55029
+    e : 35816
+    t : 26234
+    a : 21542
+    o : 21174
+  No errors while processing file
+
+File: ./books/The_Strange_Case_of_Dr_Jekyll.txt
+  Status:  Success
+  Processing Time: 1849.168ms
+  File Size: 124967 bytes
+  Lines: 4527
+  Words: 17947
+  Avg Words per Line: 3.96
+  Top Characters:
+    [space] : 24891
+    e : 11279
+    t : 6594
+    n : 6424
+    i : 5959
+  No errors while processing file
+
+File: ./books/Evelina.txt
+  Status:  Success
+  Processing Time: 1885.854ms
+  File Size: 123396 bytes
+  Lines: 2221
+  Words: 20349
+  Avg Words per Line: 9.16
+  Top Characters:
+    [space] : 19630
+    e : 11673
+    t : 8814
+    o : 7314
+    a : 7037
+  No errors while processing file
+
+File: ./books/A_Tale_of_Two_Cities_3.txt
+  Status:  Success
+  Processing Time: 3258.104ms
+  File Size: 215136 bytes
+  Lines: 4732
+  Words: 36584
+  Avg Words per Line: 7.73
+  Top Characters:
+    [space] : 33457
+    e : 18377
+    t : 14029
+    o : 13067
+    i : 12391
+  No errors while processing file
+
+File: ./books/Can_You_Forgive_Her.txt
+  Status:  Success
+  Processing Time: 2306.486ms
+  File Size: 146498 bytes
+  Lines: 2715
+  Words: 24221
+  Avg Words per Line: 8.92
+  Top Characters:
+    [space] : 23707
+    e : 14643
+    t : 9798
+    a : 8427
+    o : 8374
+  No errors while processing file
+
+File: ./books/Jude_the_Obscure.txt
+  Status:  Success
+  Processing Time: 7378.233ms
+  File Size: 468078 bytes
+  Lines: 8373
+  Words: 80259
+  Avg Words per Line: 9.59
+  Top Characters:
+    [space] : 73786
+    e : 46184
+    t : 31574
+    o : 27805
+    a : 27455
+  No errors while processing file
+
+File: ./books/Lady_Anna.txt
+  Status:  Success
+  Processing Time: 9023.574ms
+  File Size: 587555 bytes
+  Lines: 10027
+  Words: 104204
+  Avg Words per Line: 10.39
+  Top Characters:
+    [space] : 96263
+    e : 57600
+    t : 41356
+    o : 35748
+    a : 35211
+  No errors while processing file
+
+File: ./books/Roxana.txt
+  Status:  Success
+  Processing Time: 5024.216ms
+  File Size: 332869 bytes
+  Lines: 6515
+  Words: 55364
+  Avg Words per Line: 8.50
+  Top Characters:
+    [space] : 51913
+    e : 31724
+    t : 23400
+    a : 20767
+    o : 19496
+  No errors while processing file
+
+File: ./books/The_Eustace_Diamonds.txt
+  Status:  Success
+  Processing Time: 9103.279ms
+  File Size: 581192 bytes
+  Lines: 11866
+  Words: 99399
+  Avg Words per Line: 8.38
+  Top Characters:
+    [space] : 90541
+    e : 52916
+    t : 38426
+    a : 35048
+    o : 32916
+  No errors while processing file
+
+File: ./books/Under_the_Greenwood_Tree.txt
+  Status:  Success
+  Processing Time: 7749.249ms
+  File Size: 504876 bytes
+  Lines: 10788
+  Words: 88600
+  Avg Words per Line: 8.21
+  Top Characters:
+    [space] : 84293
+    e : 48167
+    t : 34883
+    a : 29987
+    o : 28943
+  No errors while processing file
+
+File: ./books/The_Magna_Carta.txt
+  Status:  Success
+  Processing Time: 885.986ms
+  File Size: 55339 bytes
+  Lines: 1057
+  Words: 9596
+  Avg Words per Line: 9.08
+  Top Characters:
+    [space] : 9097
+    e : 5354
+    t : 3959
+    o : 3525
+    a : 3139
+  No errors while processing file
+
+File: ./books/Nicholas_Nickleby.txt
+  Status:  Success
+  Processing Time: 30460.122ms
+  File Size: 1951227 bytes
+  Lines: 37584
+  Words: 325340
+  Avg Words per Line: 8.66
+  Top Characters:
+    [space] : 295761
+    e : 174833
+    t : 125129
+    a : 115414
+    o : 108022
+  No errors while processing file
+
+File: ./books/Rob_Roy.txt
+  Status:  Success
+  Processing Time: 1645.298ms
+  File Size: 113470 bytes
+  Lines: 3030
+  Words: 18204
+  Avg Words per Line: 6.01
+  Top Characters:
+    [space] : 26622
+    e : 9549
+    o : 6464
+    a : 6433
+    t : 6316
+  No errors while processing file
+
+File: ./books/The_Pickwick_Papers_Alt.txt
+  Status:  Success
+  Processing Time: 15105.225ms
+  File Size: 955898 bytes
+  Lines: 19188
+  Words: 161005
+  Avg Words per Line: 8.39
+  Top Characters:
+    [space] : 146953
+    e : 87755
+    t : 61940
+    a : 54560
+    o : 54176
+  No errors while processing file
+
+File: ./books/Macbeth.txt
+  Status:  Success
+  Processing Time: 2810.803ms
+  File Size: 180825 bytes
+  Lines: 7023
+  Words: 29809
+  Avg Words per Line: 4.24
+  Top Characters:
+    [space] : 24933
+    e : 16131
+    t : 11437
+    a : 11151
+    o : 10666
+  No errors while processing file
+
+File: ./books/The_Antiquary.txt
+  Status:  Success
+  Processing Time: 2225.845ms
+  File Size: 142501 bytes
+  Lines: 3528
+  Words: 25307
+  Avg Words per Line: 7.17
+  Top Characters:
+    [space] : 29774
+    e : 12666
+    t : 8759
+    a : 8672
+    o : 8569
+  No errors while processing file
+
+File: ./books/He_Knew_He_Was_Right.txt
+  Status:  Success
+  Processing Time: 7476.815ms
+  File Size: 481000 bytes
+  Lines: 8908
+  Words: 78782
+  Avg Words per Line: 8.84
+  Top Characters:
+    [space] : 73551
+    e : 45811
+    t : 31634
+    a : 28560
+    o : 27800
+  No errors while processing file
+
+File: ./books/Don_Juan.txt
+  Status:  Success
+  Processing Time: 1729.491ms
+  File Size: 119978 bytes
+  Lines: 3001
+  Words: 20707
+  Avg Words per Line: 6.90
+  Top Characters:
+    [space] : 19573
+    e : 10907
+    t : 8707
+    o : 7068
+    i : 5979
+  No errors while processing file
+
+File: ./books/The_Picture_of_Dorian_Gray_Alt.txt
+  Status:  Success
+  Processing Time: 7187.661ms
+  File Size: 465857 bytes
+  Lines: 8906
+  Words: 82024
+  Avg Words per Line: 9.21
+  Top Characters:
+    [space] : 75114
+    e : 42292
+    t : 30714
+    a : 28484
+    o : 27479
+  No errors while processing file
+
+File: ./books/The_Turn_of_the_Screw_Revised.txt
+  Status:  Success
+  Processing Time: 9498.114ms
+  File Size: 603016 bytes
+  Lines: 9174
+  Words: 102349
+  Avg Words per Line: 11.16
+  Top Characters:
+    [space] : 93945
+    e : 61581
+    t : 45420
+    a : 37250
+    o : 36437
+  No errors while processing file
+
+File: ./books/Well_Beloved.txt
+  Status:  Success
+  Processing Time: 11657.924ms
+  File Size: 734153 bytes
+  Lines: 14938
+  Words: 131783
+  Avg Words per Line: 8.82
+  Top Characters:
+    [space] : 124382
+    e : 67222
+    t : 51615
+    o : 42911
+    a : 42549
+  No errors while processing file
+
+File: ./books/Twelfth_Night.txt
+  Status:  Success
+  Processing Time: 6059.148ms
+  File Size: 390211 bytes
+  Lines: 7312
+  Words: 67717
+  Avg Words per Line: 9.26
+  Top Characters:
+    [space] : 63447
+    e : 36253
+    t : 26717
+    a : 24369
+    o : 22547
+  No errors while processing file
+
+File: ./books/The_Brothers_Karamazov_Translation.txt
+  Status:  Success
+  Processing Time: 3134.815ms
+  File Size: 215136 bytes
+  Lines: 4732
+  Words: 36584
+  Avg Words per Line: 7.73
+  Top Characters:
+    [space] : 33457
+    e : 18377
+    t : 14029
+    o : 13067
+    i : 12391
+  No errors while processing file
+
+File: ./books/The_Moonstone.txt
+  Status:  Success
+  Processing Time: 8119.314ms
+  File Size: 550046 bytes
+  Lines: 8636
+  Words: 91166
+  Avg Words per Line: 10.56
+  Top Characters:
+    [space] : 85035
+    e : 56153
+    t : 38508
+    a : 33441
+    o : 31207
+  No errors while processing file
+
+File: ./books/The_First_Men_in_the_Moon.txt
+  Status:  Success
+  Processing Time: 4941.005ms
+  File Size: 308064 bytes
+  Lines: 5175
+  Words: 52979
+  Avg Words per Line: 10.24
+  Top Characters:
+    [space] : 48861
+    e : 30916
+    t : 22341
+    o : 18810
+    a : 18218
+  No errors while processing file
+
+File: ./books/The_Secret_Garden.txt
+  Status:  Success
+  Processing Time: 6739.244ms
+  File Size: 442097 bytes
+  Lines: 8539
+  Words: 74085
+  Avg Words per Line: 8.68
+  Top Characters:
+    [space] : 67622
+    e : 42317
+    t : 30677
+    a : 26288
+    o : 25125
+  No errors while processing file
+
+File: ./books/Warden.txt
+  Status:  Success
+  Processing Time: 2427.230ms
+  File Size: 153098 bytes
+  Lines: 4643
+  Words: 21244
+  Avg Words per Line: 4.58
+  Top Characters:
+    [space] : 46116
+    e : 11428
+    t : 8379
+    o : 7456
+    a : 6747
+  No errors while processing file
+
+File: ./books/A_Christmas_Carol.txt
+  Status:  Success
+  Processing Time: 2588.170ms
+  File Size: 182294 bytes
+  Lines: 4228
+  Words: 31611
+  Avg Words per Line: 7.48
+  Top Characters:
+    [space] : 28517
+    e : 16779
+    t : 12450
+    o : 11102
+    a : 10364
+  No errors while processing file
+
+File: ./books/The_Mayor_of_Casterbridge.txt
+  Status:  Success
+  Processing Time: 3561.418ms
+  File Size: 235151 bytes
+  Lines: 4642
+  Words: 40877
+  Avg Words per Line: 8.81
+  Top Characters:
+    [space] : 37440
+    e : 23271
+    t : 17064
+    a : 14280
+    o : 13335
+  No errors while processing file
+
+File: ./books/Alice_in_Wonderland.txt
+  Status:  Success
+  Processing Time: 2590.042ms
+  File Size: 174355 bytes
+  Lines: 3758
+  Words: 29564
+  Avg Words per Line: 7.87
+  Top Characters:
+    [space] : 27601
+    e : 15479
+    t : 12222
+    a : 9837
+    o : 9517
+  No errors while processing file
+
+File: ./books/The_Cricket_on_the_Hearth.txt
+  Status:  Success
+  Processing Time: 1012.058ms
+  File Size: 54996 bytes
+  Lines: 1257
+  Words: 8237
+  Avg Words per Line: 6.55
+  Top Characters:
+    [space] : 12314
+    e : 4748
+    t : 3696
+    a : 2814
+    o : 2757
+  No errors while processing file
+
+File: ./books/Robinson_Crusoe.txt
+  Status:  Success
+  Processing Time: 29153.928ms
+  File Size: 1865732 bytes
+  Lines: 33658
+  Words: 319402
+  Avg Words per Line: 9.49
+  Top Characters:
+    [space] : 291777
+    e : 168881
+    t : 125023
+    a : 115223
+    o : 109943
+  No errors while processing file
+
+File: ./books/The_Importance_of_Being_Earnest_Alt.txt
+  Status:  Success
+  Processing Time: 9011.658ms
+  File Size: 581192 bytes
+  Lines: 11866
+  Words: 99399
+  Avg Words per Line: 8.38
+  Top Characters:
+    [space] : 90541
+    e : 52916
+    t : 38426
+    a : 35048
+    o : 32916
+  No errors while processing file
+
+File: ./books/A_Pair_of_Blue_Eyes.txt
+  Status:  Success
+  Processing Time: 4494.203ms
+  File Size: 278217 bytes
+  Lines: 5266
+  Words: 46857
+  Avg Words per Line: 8.90
+  Top Characters:
+    [space] : 43647
+    e : 26264
+    t : 18359
+    a : 16677
+    o : 16468
+  No errors while processing file
+
+File: ./books/Mystery_Yellow_Room.txt
+  Status:  Success
+  Processing Time: 5411.467ms
+  File Size: 349325 bytes
+  Lines: 7270
+  Words: 60856
+  Avg Words per Line: 8.37
+  Top Characters:
+    [space] : 55577
+    e : 31718
+    t : 23305
+    a : 20319
+    o : 20235
+  No errors while processing file
+
+File: ./books/The_Hand_of_Ethelberta.txt
+  Status:  Success
+  Processing Time: 1310.663ms
+  File Size: 82066 bytes
+  Lines: 1424
+  Words: 14342
+  Avg Words per Line: 10.07
+  Top Characters:
+    [space] : 13566
+    e : 7925
+    t : 5932
+    o : 4955
+    a : 4772
+  No errors while processing file
+
+File: ./books/The_Heart_of_Midlothian.txt
+  Status:  Success
+  Processing Time: 2653.461ms
+  File Size: 169035 bytes
+  Lines: 2681
+  Words: 27437
+  Avg Words per Line: 10.23
+  Top Characters:
+    [space] : 29693
+    e : 16212
+    t : 12634
+    o : 10068
+    a : 9735
+  No errors while processing file
+
+File: ./books/Tess_of_the_d_Urbervilles.txt
+  Status:  Success
+  Processing Time: 12327.088ms
+  File Size: 774744 bytes
+  Lines: 13663
+  Words: 137922
+  Avg Words per Line: 10.09
+  Top Characters:
+    [space] : 133289
+    e : 77389
+    t : 53469
+    a : 45623
+    i : 41819
+  No errors while processing file
+
+File: ./books/Great_Expectations.txt
+  Status:  Success
+  Processing Time: 16451.434ms
+  File Size: 1058246 bytes
+  Lines: 20776
+  Words: 187510
+  Avg Words per Line: 9.03
+  Top Characters:
+    [space] : 171315
+    e : 93685
+    t : 70270
+    a : 63991
+    o : 61244
+  No errors while processing file
+
+File: ./books/The_Bride_of_Lammermoor.txt
+  Status:  Success
+  Processing Time: 7379.572ms
+  File Size: 487360 bytes
+  Lines: 9654
+  Words: 86103
+  Avg Words per Line: 8.92
+  Top Characters:
+    [space] : 80057
+    e : 41949
+    t : 32924
+    a : 29636
+    o : 27395
+  No errors while processing file
+
+File: ./books/Oliver_Twist.txt
+  Status:  Success
+  Processing Time: 2765.041ms
+  File Size: 169121 bytes
+  Lines: 5553
+  Words: 29530
+  Avg Words per Line: 5.32
+  Top Characters:
+    [space] : 25650
+    e : 13665
+    t : 11090
+    o : 10996
+    a : 9677
+  No errors while processing file
+
+File: ./books/Phineas_Redux.txt
+  Status:  Success
+  Processing Time: 4879.979ms
+  File Size: 303939 bytes
+  Lines: 5412
+  Words: 49619
+  Avg Words per Line: 9.17
+  Top Characters:
+    [space] : 45281
+    e : 29341
+    t : 23945
+    i : 20601
+    o : 18516
+  No errors while processing file
+
+File: ./books/Martin_Chuzzlewit.txt
+  Status:  Success
+  Processing Time: 6744.765ms
+  File Size: 438744 bytes
+  Lines: 7124
+  Words: 76531
+  Avg Words per Line: 10.74
+  Top Characters:
+    [space] : 73147
+    e : 41814
+    t : 29147
+    a : 27285
+    o : 24945
+  No errors while processing file
+
+File: ./books/The_Duke_s_Children.txt
+  Status:  Success
+  Processing Time: 28526.590ms
+  File Size: 1749524 bytes
+  Lines: 28085
+  Words: 281869
+  Avg Words per Line: 10.04
+  Top Characters:
+    [space] : 260781
+    e : 174942
+    t : 132186
+    a : 111731
+    i : 104859
+  No errors while processing file
+
+File: ./books/Dombey_and_Son.txt
+  Status:  Success
+  Processing Time: 31445.364ms
+  File Size: 2097877 bytes
+  Lines: 40091
+  Words: 357974
+  Avg Words per Line: 8.93
+  Top Characters:
+    [space] : 325994
+    e : 188413
+    t : 136699
+    a : 125544
+    o : 121164
+  No errors while processing file
+
+File: ./books/Middlemarch.txt
+  Status:  Success
+  Processing Time: 12115.180ms
+  File Size: 780534 bytes
+  Lines: 18237
+  Words: 124747
+  Avg Words per Line: 6.84
+  Top Characters:
+    [space] : 151061
+    e : 68475
+    t : 49370
+    o : 43942
+    a : 43146
+  No errors while processing file
+
+File: ./books/The_Laodicean.txt
+  Status:  Success
+  Processing Time: 17735.052ms
+  File Size: 1135556 bytes
+  Lines: 21381
+  Words: 197938
+  Avg Words per Line: 9.26
+  Top Characters:
+    [space] : 180740
+    e : 107075
+    t : 79165
+    o : 65504
+    a : 65369
+  No errors while processing file
+
+File: ./books/Little_Women.txt
+  Status:  Success
+  Processing Time: 16919.100ms
+  File Size: 1071450 bytes
+  Lines: 21187
+  Words: 189138
+  Avg Words per Line: 8.93
+  Top Characters:
+    [space] : 172815
+    e : 97825
+    t : 68323
+    a : 63917
+    o : 60884
+  No errors while processing file
+
+File: ./books/Bleak_House.txt
+  Status:  Success
+  Processing Time: 6205.831ms
+  File Size: 397830 bytes
+  Lines: 7575
+  Words: 69079
+  Avg Words per Line: 9.12
+  Top Characters:
+    [space] : 63448
+    e : 36315
+    t : 25094
+    a : 24361
+    o : 22689
+  No errors while processing file
+
+File: ./books/The_Belton_Estate.txt
+  Status:  Success
+  Processing Time: 6141.488ms
+  File Size: 404152 bytes
+  Lines: 7551
+  Words: 67712
+  Avg Words per Line: 8.97
+  Top Characters:
+    [space] : 68221
+    e : 37494
+    t : 26678
+    a : 25426
+    o : 22572
+  No errors while processing file
+
+File: ./books/The_Taming_of_the_Shrew.txt
+  Status:  Success
+  Processing Time: 397.363ms
+  File Size: 25966 bytes
+  Lines: 605
+  Words: 3876
+  Avg Words per Line: 6.41
+  Top Characters:
+    [space] : 4328
+    e : 2326
+    t : 1834
+    o : 1672
+    r : 1449
+  No errors while processing file
+
+File: ./books/The_Mystery_of_Edwin_Drood.txt
+  Status:  Success
+  Processing Time: 3711.623ms
+  File Size: 246264 bytes
+  Lines: 4460
+  Words: 41042
+  Avg Words per Line: 9.20
+  Top Characters:
+    [space] : 39299
+    e : 24563
+    t : 17327
+    o : 14300
+    a : 14028
+  No errors while processing file
+
+File: ./books/Redgauntlet.txt
+  Status:  Success
+  Processing Time: 27411.367ms
+  File Size: 1770372 bytes
+  Lines: 28118
+  Words: 305923
+  Avg Words per Line: 10.88
+  Top Characters:
+    [space] : 291557
+    e : 180088
+    t : 127642
+    a : 111860
+    o : 104820
+  No errors while processing file
+
+File: ./books/Desperate_Remedies.txt
+  Status:  Success
+  Processing Time: 18317.307ms
+  File Size: 1186891 bytes
+  Lines: 19739
+  Words: 195389
+  Avg Words per Line: 9.90
+  Top Characters:
+    [space] : 178058
+    e : 126313
+    t : 101260
+    o : 74624
+    i : 72301
+  No errors while processing file
+
+File: ./books/The_Picture_of_Dorian_Gray_2.txt
+  Status:  Success
+  Processing Time: 4888.716ms
+  File Size: 314050 bytes
+  Lines: 5573
+  Words: 55189
+  Avg Words per Line: 9.90
+  Top Characters:
+    [space] : 51545
+    e : 30426
+    t : 22356
+    a : 18607
+    o : 18522
+  No errors while processing file
+
+File: ./books/The_Haunted_Man.txt
+  Status:  Success
+  Processing Time: 4481.958ms
+  File Size: 288813 bytes
+  Lines: 6642
+  Words: 50300
+  Avg Words per Line: 7.57
+  Top Characters:
+    [space] : 45823
+    e : 26976
+    t : 19886
+    a : 16072
+    o : 15478
+  No errors while processing file
+
+File: ./books/A_Midsummer_Nights_Dream.txt
+  Status:  Success
+  Processing Time: 7331.707ms
+  File Size: 459221 bytes
+  Lines: 8218
+  Words: 76496
+  Avg Words per Line: 9.31
+  Top Characters:
+    [space] : 70774
+    e : 44185
+    t : 34055
+    o : 29244
+    a : 27197
+  No errors while processing file
+
+File: ./books/The_Vicar_of_Bullhampton.txt
+  Status:  Success
+  Processing Time: 12162.462ms
+  File Size: 772429 bytes
+  Lines: 14911
+  Words: 130410
+  Avg Words per Line: 8.75
+  Top Characters:
+    [space] : 126102
+    e : 74453
+    t : 50837
+    a : 44834
+    o : 43381
+  No errors while processing file
+
+File: ./books/Miss_Mackenzie.txt
+  Status:  Success
+  Processing Time: 1298.333ms
+  File Size: 87123 bytes
+  Lines: 1655
+  Words: 14316
+  Avg Words per Line: 8.65
+  Top Characters:
+    [space] : 13228
+    e : 8230
+    t : 6167
+    o : 5442
+    a : 5097
+  No errors while processing file
+
+File: ./books/A_Tale_of_Two_Cities.txt
+  Status:  Success
+  Processing Time: 12748.305ms
+  File Size: 807248 bytes
+  Lines: 16284
+  Words: 138929
+  Avg Words per Line: 8.53
+  Top Characters:
+    [space] : 127035
+    e : 74857
+    t : 54067
+    a : 48209
+    o : 46546
+  No errors while processing file
+
+File: ./books/War_and_Peace.txt
+  Status:  Success
+  Processing Time: 17712.460ms
+  File Size: 1122772 bytes
+  Lines: 18367
+  Words: 180577
+  Avg Words per Line: 9.83
+  Top Characters:
+    [space] : 164572
+    e : 113658
+    t : 82233
+    a : 70038
+    o : 66047
+  No errors while processing file
+
+File: ./books/The_Iliad.txt
+  Status:  Success
+  Processing Time: 19492.021ms
+  File Size: 1259131 bytes
+  Lines: 21278
+  Words: 220416
+  Avg Words per Line: 10.36
+  Top Characters:
+    [space] : 204555
+    e : 113432
+    t : 83036
+    o : 77724
+    a : 75491
+  No errors while processing file
+
+File: ./books/Sherlock_Holmes.txt
+  Status:  Success
+  Processing Time: 9653.326ms
+  File Size: 607648 bytes
+  Lines: 12306
+  Words: 107553
+  Avg Words per Line: 8.74
+  Top Characters:
+    [space] : 98565
+    e : 54951
+    t : 40480
+    a : 36127
+    o : 34847
+  No errors while processing file
+
+File: ./books/David_Copperfield.txt
+  Status:  Success
+  Processing Time: 31425.259ms
+  File Size: 2033364 bytes
+  Lines: 38649
+  Words: 357862
+  Avg Words per Line: 9.26
+  Top Characters:
+    [space] : 328682
+    e : 180585
+    t : 132333
+    a : 121844
+    o : 115842
+  No errors while processing file
+
+File: ./books/Two_on_a_Tower.txt
+  Status:  Success
+  Processing Time: 397.241ms
+  File Size: 20786 bytes
+  Lines: 425
+  Words: 3186
+  Avg Words per Line: 7.50
+  Top Characters:
+    [space] : 3129
+    e : 1906
+    t : 1541
+    o : 1426
+    r : 1214
+  No errors while processing file
+
+File: ./books/The_Tenant_of_Wildfell_Hall_Alternate.txt
+  Status:  Success
+  Processing Time: 11503.606ms
+  File Size: 749927 bytes
+  Lines: 14422
+  Words: 115396
+  Avg Words per Line: 8.00
+  Top Characters:
+    [space] : 171545
+    e : 62358
+    t : 44925
+    o : 39404
+    a : 38938
+  No errors while processing file
+
+File: ./books/Romeo_and_Juliet.txt
+  Status:  Success
+  Processing Time: 2818.918ms
+  File Size: 194686 bytes
+  Lines: 6825
+  Words: 32493
+  Avg Words per Line: 4.76
+  Top Characters:
+    [space] : 27461
+    e : 17102
+    t : 12674
+    o : 11904
+    i : 10345
+  No errors while processing file
+
+File: ./books/A_Doll_House.txt
+  Status:  Success
+  Processing Time: 2556.524ms
+  File Size: 169121 bytes
+  Lines: 5553
+  Words: 29530
+  Avg Words per Line: 5.32
+  Top Characters:
+    [space] : 25650
+    e : 13665
+    t : 11090
+    o : 10996
+    a : 9677
+  No errors while processing file
+
+File: ./books/The_Odyssey.txt
+  Status:  Success
+  Processing Time: 6113.646ms
+  File Size: 399906 bytes
+  Lines: 7856
+  Words: 71666
+  Avg Words per Line: 9.12
+  Top Characters:
+    [space] : 67142
+    e : 35156
+    t : 26380
+    a : 24677
+    o : 22997
+  No errors while processing file
+
+File: ./books/The_Black_Dwarf.txt
+  Status:  Success
+  Processing Time: 1867.896ms
+  File Size: 119978 bytes
+  Lines: 3001
+  Words: 20707
+  Avg Words per Line: 6.90
+  Top Characters:
+    [space] : 19573
+    e : 10907
+    t : 8707
+    o : 7068
+    i : 5979
+  No errors while processing file
+
+File: ./books/The_Winters_Tale.txt
+  Status:  Success
+  Processing Time: 2616.470ms
+  File Size: 189926 bytes
+  Lines: 6265
+  Words: 32031
+  Avg Words per Line: 5.11
+  Top Characters:
+    [space] : 27622
+    e : 16151
+    t : 12207
+    o : 11479
+    a : 9979
+  No errors while processing file
+
+File: ./books/Three_Men_in_a_Boat.txt
+  Status:  Success
+  Processing Time: 5359.580ms
+  File Size: 349188 bytes
+  Lines: 6650
+  Words: 58740
+  Avg Words per Line: 8.83
+  Top Characters:
+    [space] : 56409
+    e : 32702
+    t : 22307
+    a : 22075
+    o : 20408
+  No errors while processing file
+
+File: ./books/The_Republic.txt
+  Status:  Success
+  Processing Time: 2650.851ms
+  File Size: 174141 bytes
+  Lines: 4667
+  Words: 29847
+  Avg Words per Line: 6.40
+  Top Characters:
+    [space] : 28559
+    e : 17657
+    t : 11098
+    o : 9897
+    a : 9478
+  No errors while processing file
+
+File: ./books/Don_Quixote_Part_2.txt
+  Status:  Success
+  Processing Time: 9742.472ms
+  File Size: 682965 bytes
+  Lines: 16000
+  Words: 113967
+  Avg Words per Line: 7.12
+  Top Characters:
+    [space] : 105173
+    e : 64616
+    t : 50192
+    a : 39513
+    o : 38278
+  No errors while processing file
+
+File: ./books/The_Portrait_of_a_Lady.txt
+  Status:  Success
+  Processing Time: 3602.411ms
+  File Size: 242804 bytes
+  Lines: 5736
+  Words: 39470
+  Avg Words per Line: 6.88
+  Top Characters:
+    [space] : 42031
+    e : 20848
+    t : 15060
+    a : 13140
+    o : 12918
+  No errors while processing file
+
+File: ./books/No_Name.txt
+  Status:  Success
+  Processing Time: 5820.085ms
+  File Size: 369527 bytes
+  Lines: 6333
+  Words: 63582
+  Avg Words per Line: 10.04
+  Top Characters:
+    [space] : 61246
+    e : 34744
+    t : 25522
+    a : 22925
+    o : 21710
+  No errors while processing file
+
+File: ./books/Ulysses.txt
+  Status:  Success
+  Processing Time: 37921.145ms
+  File Size: 2391721 bytes
+  Lines: 43285
+  Words: 430279
+  Avg Words per Line: 9.94
+  Top Characters:
+    [space] : 395378
+    e : 219925
+    t : 169517
+    a : 149076
+    o : 147002
+  No errors while processing file
+
+File: ./books/Tattle_and_Tell.txt
+  Status:  Success
+  Processing Time: 13149.807ms
+  File Size: 887460 bytes
+  Lines: 14073
+  Words: 151402
+  Avg Words per Line: 10.76
+  Top Characters:
+    [space] : 138817
+    e : 83944
+    t : 61324
+    a : 54698
+    o : 52301
+  No errors while processing file
+
+File: ./books/Jane_Austen_Letters.txt
+  Status:  Success
+  Processing Time: 7940.681ms
+  File Size: 564963 bytes
+  Lines: 10189
+  Words: 92866
+  Avg Words per Line: 9.11
+  Top Characters:
+    [space] : 87220
+    e : 53491
+    t : 40572
+    a : 33603
+    i : 32423
+  No errors while processing file
+
+File: ./books/Framley_Parsonage.txt
+  Status:  Success
+  Processing Time: 5884.242ms
+  File Size: 480216 bytes
+  Lines: 9215
+  Words: 85253
+  Avg Words per Line: 9.25
+  Top Characters:
+    [space] : 78395
+    e : 44112
+    t : 33245
+    a : 29418
+    o : 28255
+  No errors while processing file
+
+File: ./books/The_Railway_Children.txt
+  Status:  Success
+  Processing Time: 5537.942ms
+  File Size: 438155 bytes
+  Lines: 7631
+  Words: 75767
+  Avg Words per Line: 9.93
+  Top Characters:
+    [space] : 70480
+    e : 44538
+    t : 29493
+    a : 25894
+    o : 24494
+  No errors while processing file
+
+File: ./books/The_Holy_War.txt
+  Status:  Success
+  Processing Time: 8036.511ms
+  File Size: 631057 bytes
+  Lines: 12096
+  Words: 108914
+  Avg Words per Line: 9.00
+  Top Characters:
+    [space] : 99402
+    e : 61382
+    t : 46442
+    a : 37788
+    o : 35442
+  No errors while processing file
+
+File: ./books/Dorian_Gray.txt
+  Status:  Success
+  Processing Time: 5797.577ms
+  File Size: 465857 bytes
+  Lines: 8906
+  Words: 82024
+  Avg Words per Line: 9.21
+  Top Characters:
+    [space] : 75114
+    e : 42292
+    t : 30714
+    a : 28484
+    o : 27479
+  No errors while processing file
+
+File: ./books/The_Woman_in_White_Alt.txt
+  Status:  Success
+  Processing Time: 8594.775ms
+  File Size: 672320 bytes
+  Lines: 10287
+  Words: 108420
+  Avg Words per Line: 10.54
+  Top Characters:
+    [space] : 98967
+    e : 69201
+    t : 52257
+    i : 43647
+    o : 42038
+  No errors while processing file
+
+File: ./books/Brothers_Karamazov.txt
+  Status:  Success
+  Processing Time: 29100.443ms
+  File Size: 2042003 bytes
+  Lines: 37635
+  Words: 353881
+  Avg Words per Line: 9.40
+  Top Characters:
+    [space] : 323206
+    e : 179977
+    t : 139309
+    a : 123053
+    o : 120534
+  No errors while processing file
+
+File: ./books/Armadale_Novel.txt
+  Status:  Success
+  Processing Time: 9804.750ms
+  File Size: 810955 bytes
+  Lines: 14744
+  Words: 141324
+  Avg Words per Line: 9.59
+  Top Characters:
+    [space] : 129628
+    e : 73617
+    t : 53762
+    a : 50951
+    o : 45796
+  No errors while processing file
+
+File: ./books/Dracula.txt
+  Status:  Success
+  Processing Time: 18844.630ms
+  File Size: 1474928 bytes
+  Lines: 35310
+  Words: 245095
+  Avg Words per Line: 6.94
+  Top Characters:
+    [space] : 220984
+    e : 131940
+    t : 94849
+    a : 89664
+    o : 83077
+  No errors while processing file
+
+File: ./books/Wuthering_Heights_Alt.txt
+  Status:  Success
+  Processing Time: 7443.990ms
+  File Size: 772429 bytes
+  Lines: 14911
+  Words: 130410
+  Avg Words per Line: 8.75
+  Top Characters:
+    [space] : 126102
+    e : 74453
+    t : 50837
+    a : 44834
+    o : 43381
+  No errors while processing file
+
+File: ./books/Little_Women_Revised.txt
+  Status:  Success
+  Processing Time: 10094.937ms
+  File Size: 1071450 bytes
+  Lines: 21187
+  Words: 189138
+  Avg Words per Line: 8.93
+  Top Characters:
+    [space] : 172815
+    e : 97825
+    t : 68323
+    a : 63917
+    o : 60884
+  No errors while processing file
+
+File: ./books/Emma.txt
+  Status:  Success
+  Processing Time: 8353.436ms
+  File Size: 933752 bytes
+  Lines: 16870
+  Words: 160586
+  Avg Words per Line: 9.52
+  Top Characters:
+    [space] : 146792
+    e : 87914
+    t : 60748
+    a : 55436
+    o : 54555
+  No errors while processing file
+
+File: ./books/Moby_Dick.txt
+  Status:  Success
+  Processing Time: 13169.119ms
+  File Size: 1276306 bytes
+  Lines: 22310
+  Words: 215840
+  Avg Words per Line: 9.67
+  Top Characters:
+    [space] : 197842
+    e : 119356
+    t : 89875
+    a : 79225
+    o : 70809
+  No errors while processing file
+
+File: ./books/Romola.txt
+  Status:  Success
+  Processing Time: 11089.611ms
+  File Size: 1228239 bytes
+  Lines: 21053
+  Words: 217110
+  Avg Words per Line: 10.31
+  Top Characters:
+    [space] : 199341
+    e : 111080
+    t : 84103
+    a : 74120
+    o : 71037
+  No errors while processing file
+
+File: ./books/The_Book_of_Mormon.txt
+  Status:  Success
+  Processing Time: 15750.126ms
+  File Size: 1518962 bytes
+  Lines: 31568
+  Words: 278835
+  Avg Words per Line: 8.83
+  Top Characters:
+    [space] : 254572
+    e : 147348
+    t : 112151
+    h : 93568
+    a : 92678
+  No errors while processing file
+
+File: ./books/Moll_Flanders.txt
+  Status:  Success
+  Processing Time: 8955.447ms
+  File Size: 1114066 bytes
+  Lines: 20292
+  Words: 184064
+  Avg Words per Line: 9.07
+  Top Characters:
+    [space] : 167787
+    e : 91445
+    t : 77725
+    o : 64480
+    a : 63072
+  No errors while processing file
+
+File: ./books/Rebecca_of_Sunnybrook_Farm.txt
+  Status:  Success
+  Processing Time: 21694.147ms
+  File Size: 2033903 bytes
+  Lines: 35648
+  Words: 353662
+  Avg Words per Line: 9.92
+  Top Characters:
+    [space] : 326899
+    e : 195312
+    t : 136374
+    o : 123440
+    a : 118623
+  No errors while processing file
+
+File: ./books/Adam_Bede.txt
+  Status:  Success
+  Processing Time: 13737.663ms
+  File Size: 1614370 bytes
+  Lines: 32271
+  Words: 281937
+  Avg Words per Line: 8.74
+  Top Characters:
+    [space] : 261699
+    e : 147695
+    t : 111642
+    o : 97975
+    a : 94345
+  No errors while processing file
+
+File: ./books/Dubliners.txt
+  Status:  Success
+  Processing Time: 15483.774ms
+  File Size: 1970952 bytes
+  Lines: 54013
+  Words: 266128
+  Avg Words per Line: 4.93
+  Top Characters:
+    [space] : 250515
+    e : 142347
+    a : 130527
+    i : 107121
+    n : 106250
+  No errors while processing file
+
+File: ./books/Hard_Times_Alt.txt
+  Status:  Success
+  Processing Time: 14629.726ms
+  File Size: 2044841 bytes
+  Lines: 40220
+  Words: 356508
+  Avg Words per Line: 8.86
+  Top Characters:
+    [space] : 325137
+    e : 179599
+    t : 131326
+    a : 121060
+    o : 116973
+  No errors while processing file
+
+File: ./books/Scarlet_Letter.txt
+  Status:  Success
+  Processing Time: 10942.998ms
+  File Size: 2237071 bytes
+  Lines: 76949
+  Words: 289093
+  Avg Words per Line: 3.76
+  Top Characters:
+    [space] : 268669
+    e : 155652
+    a : 145812
+    i : 117340
+    n : 116605
+  No errors while processing file
+================================================================================
+

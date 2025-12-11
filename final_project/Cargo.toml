@@ -1,0 +1,11 @@
+[package]
+name = "final_project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ctrlc = "3.4"
+
+[[bin]]
+name = "processor"
+path = "src/bin/main.rs"
