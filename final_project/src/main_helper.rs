@@ -64,7 +64,7 @@ pub fn get_directories_from_user() -> Vec<String> {
         }
         
         let prompt = if directories.is_empty() {
-            format!("Enter directory path (the default is: {}, or add your own direcory. The default will download books from https://www.gutenberg.org if needed ), type 'done' to finish adding directories: ", default_dir)
+            format!("Enter directory path (the default used is: {}, OR add your own directory. The default will download books from https://www.gutenberg.org if needed ), type 'done' to finish adding directories: ", default_dir)
         } else {
             format!("Enter another directory path, or 'done' to finish: ")
         };
